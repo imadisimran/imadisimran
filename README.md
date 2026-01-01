@@ -16,6 +16,14 @@ I'm a Full-Stack Developer specializing in the **MERN Stack**. I can build real 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+## 🤞 Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imadisimran&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imadisimran&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=imadisimran&theme=radical" alt="GitHub Streak" />
+</p>
+
+
 ### 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imadisimran)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-imadisimran@gmail.com)
