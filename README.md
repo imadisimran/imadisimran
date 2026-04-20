@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Imad Imran</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&width=435&lines=Full+Stack+Web+Developer;MERN+Specialist;+Next.js+Beginner+;Passionate+about+building+scalable+applications+and+clean%2C+responsive+UI%2FUX." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&width=435&lines=Full+Stack+Web+Developer;MERN+Specialist;+Next.js+Beginner+" alt="Typing SVG" /></a>
 </p>
 
 
