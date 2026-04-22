@@ -24,6 +24,10 @@
 
 - 📫 How to reach me **imadisimran@gmail.com**
 
+### 🚀 About Me
+I'm a Full-Stack Developer specializing in the **MERN Stack**. I can build real world scalable web applications. I started my journey as a hobby but I have taken it as a profession. I have expertise in React, Node JS, Express JS, MonogDB. My future goal is to learn more web technologies for making more wonderful sites
+
+
 <h3 align="left">Connect with me:</h3>
 <table>
   <tr>
