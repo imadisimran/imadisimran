@@ -37,9 +37,6 @@ I'm a Full-Stack Developer specializing in the **MERN Stack**. I can build real 
     <td align="center">
       <a href="https://fb.com/imadsimran" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imadsimran" height="30" width="40" /></a>
     </td>
-    <td align="center">
-      <a href="https://www.topcoder.com/members/fugiat nostrud obca" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="fugiat nostrud obca" height="30" width="40" /></a>
-    </td>
   </tr>
 </table>
 
